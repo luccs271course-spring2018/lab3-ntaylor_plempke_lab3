@@ -21,3 +21,5 @@
 #TestPreformanceQuestions:
  
 #N/A
+
+We worked on this lab using a screensharing program. So only one of us has commits.
